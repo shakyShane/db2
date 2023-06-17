@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "db-1": "github:shakyshane/db-1#1.0.0"
+    "db-1": "github:shakyshane/db-1#1.0.0",
+    "db-3": "github:shakyshane/db3#1.0.0"
   }
 }
